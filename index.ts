@@ -1,5 +1,5 @@
 //esse codigo é MUITO mal feito, demorei eras pra fazer, mas funciona, entao ta otimo
-
+//iugsfuyvifdzbgsdblgisdufvk
 
 import { createInterface, Interface } from "readline/promises";
 
