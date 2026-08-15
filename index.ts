@@ -1,8 +1,5 @@
 //esse codigo é MUITO mal feito, demorei eras pra fazer, mas funciona, entao ta otimo
-//iugsfuyvifdzbgsdblgisdufvk
-//isso nao muda!!!!
 
-let uighifd= 0;
 
 import { createInterface, Interface } from "readline/promises";
 
